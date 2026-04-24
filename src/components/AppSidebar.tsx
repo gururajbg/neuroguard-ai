@@ -32,7 +32,7 @@ export function AppSidebar() {
           </div>
           {!collapsed && (
             <div>
-              <div className="text-sidebar-foreground font-semibold tracking-tight">NeuroRisk</div>
+              <div className="text-sidebar-foreground font-semibold tracking-tight">MedFusion</div>
               <div className="text-[10px] uppercase tracking-wider text-sidebar-foreground/60">Clinical AI</div>
             </div>
           )}

@@ -17,7 +17,7 @@ export default function AppLayout({ children }: { children: ReactNode }) {
           </header>
           <main className="flex-1">{children}</main>
           <footer className="border-t border-border bg-card/40 px-6 py-3 text-xs text-muted-foreground text-center">
-            © NeuroRisk · RVCE Dept. of Computer Science · 22CSP81
+            © MedFusion · RVCE Dept. of Computer Science · 22CSP81
           </footer>
         </div>
       </div>
