@@ -33,14 +33,14 @@ const Index = () => {
             Clinical Decision Support · Research Prototype
           </div>
           <h1 className="mt-6 text-4xl md:text-6xl font-bold tracking-tight max-w-3xl">
-            NeuroRisk
+            MedFusion
           </h1>
           <p className="mt-3 text-lg md:text-xl text-white/80 font-medium">
-            AI-Powered Neurological Risk Stratification
+            AI-Powered Clinical Risk Stratification
           </p>
           <p className="mt-4 max-w-2xl text-white/70">
-            Multimodal risk assessment for neurological emergencies — combining clinical
-            text understanding with brain CT analysis to recommend the right specialist, fast.
+            Multimodal risk assessment for medical emergencies — combining clinical
+            text understanding with medical imaging analysis to recommend the right specialist, fast.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Button asChild size="lg" className="bg-white text-primary hover:bg-white/90">
